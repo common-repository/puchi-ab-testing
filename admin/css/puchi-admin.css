@@ -1,0 +1,70 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.pch-wrap .clear{clear: both;display: block;height: 0;width: 100%;float: none !important;}
+.pch-wrap ol,.pch-wrap ul,.pch-wrap li,
+.pch-tbl table,.pch-tbl tbody,.pch-tbl tfoot,.pch-tbl thead,.pch-tbl tr,.pch-tbl th,.pch-tbl td{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+#toplevel_page_puchi_dashboard .wp-menu-image img{
+	width: 25px;
+	height: auto;
+	margin: 4px 0 0;
+	padding: 0;
+}
+
+.pch-wrap{
+        padding-top: 30px;
+        max-width: 1200px;
+        width: 100%;
+}
+.pch-wrap a:hover,
+.pch-wrap a:active,
+.pch-wrap a:focus,
+.pch-wrap a{
+        outline: none;
+        -webkit-box-shadow: 0px 0 2px rgba(30, 30, 30, 0);
+        -moz-box-shadow:    0px 0 2px rgba(30, 30, 30, 0);
+        box-shadow:         0px 0 2px rgba(30, 30, 30, 0);
+}
+.pch-panel{
+        background: #fff;
+        -webkit-box-shadow: 0px 0 2px rgba(30, 30, 30, .2);
+        -moz-box-shadow:    0px 0 2px rgba(30, 30, 30, .2);
+        box-shadow:         0px 0 2px rgba(30, 30, 30, .2);
+}
+
+.pch-setting-wrap h3{
+        margin: 0 0 12px;
+        padding: 0;
+        font-size: 14px;
+}
+.pch-setting-wrap select{
+        width: 180px;
+        display: inline-block;
+        vertical-align: middle;
+}
+.pch-setting-wrap textarea{
+        resize: vertical;
+        width: 300px;
+        display: block;
+        margin-bottom: 10px;
+        min-height: 120px;
+        color: #222;
+}
+.pch-setting-wrap .pch-setting-item{
+        margin-top: 30px;
+}
+.pch-setting-wrap .pch-setting-item:first-child{
+        margin-top: 0;
+}
+.jconfirm-buttons .btn-hidden{
+        display: none !important;
+}

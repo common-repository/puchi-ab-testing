@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'puchi';
+  src:  url('../fonts/puchi.eot');
+  src:  url('../fonts/puchi.eot#iefix') format('embedded-opentype'),
+    url('../fonts/puchi.ttf') format('truetype'),
+    url('../fonts/puchi.woff') format('woff'),
+    url('../fonts/puchi.svg#puchi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="puchicon-"], [class*=" puchicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'puchi' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.puchicon-arrow-down:before {
+  content: "\edd2";
+}
+.puchicon-arrow-up:before {
+  content: "\edd5";
+}
+.puchicon-minus-sign:before {
+  content: "\e15b";
+}
+.puchicon-plus-sign:before {
+  content: "\e145";
+}
+.puchicon-checkmark6:before {
+  content: "\ee08";
+}
+.puchicon-edit-pencil:before {
+  content: "\ee30";
+}
+.puchicon-envelope3:before {
+  content: "\ee32";
+}
+.puchicon-view-hide:before {
+  content: "\eed6";
+}
+.puchicon-view-list:before {
+  content: "\eed7";
+}
+.puchicon-view-show:before {
+  content: "\eed8";
+}
+.puchicon-wordpress:before {
+  content: "\eae4";
+}
+.puchicon-lines:before {
+  content: "\e90d";
+}
+.puchicon-filter_none:before {
+  content: "\e3e0";
+}
+.puchicon-bin:before {
+  content: "\e9dc";
+}
+.puchicon-facebook:before {
+  content: "\eac0";
+}
+.puchicon-instagram:before {
+  content: "\eac2";
+}
+.puchicon-twitter:before {
+  content: "\eac6";
+}
+.puchicon-youtube:before {
+  content: "\eacd";
+}
+.puchicon-linkedin2:before {
+  content: "\eafa";
+}
+.puchicon-cheveron-down:before {
+  content: "\ee0a";
+}
+.puchicon-cheveron-left:before {
+  content: "\ee0b";
+}
+.puchicon-cheveron-right:before {
+  content: "\ee10";
+}
+.puchicon-cheveron-up:before {
+  content: "\ee11";
+}
+.puchicon-check:before {
+  content: "\e5ca";
+}
+.puchicon-check_circle:before {
+  content: "\e86c";
+}
+.puchicon-arrow_drop_down:before {
+  content: "\e5c5";
+}
+.puchicon-arrow_drop_up:before {
+  content: "\e5c7";
+}
+.puchicon-directions_run:before {
+  content: "\e566";
+}
+.puchicon-info:before {
+  content: "\e88e";
+}
+.puchicon-more_vert:before {
+  content: "\e5d4";
+}
+.puchicon-close:before {
+  content: "\ee13";
+}
+.puchicon-close-outline:before {
+  content: "\ee14";
+}
+.puchicon-arrow_drop_equal:before{
+  content: "=";
+}

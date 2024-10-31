@@ -1,0 +1,359 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 21:46+0700\n"
+"PO-Revision-Date: 2019-09-21 22:05+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/class-puchi-admin.php:88 admin/class-puchi-admin.php:89
+msgid "Puchi"
+msgstr "Puchi"
+
+#: admin/class-puchi-admin.php:97 admin/class-puchi-admin.php:98
+#: admin/partials/statistic.php:5
+msgid "Statistic"
+msgstr "Statistik"
+
+#: admin/class-puchi-admin.php:105 admin/class-puchi-admin.php:106
+#: admin/partials/setting.php:2
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: admin/class-puchi-admin.php:125
+msgctxt "post type general name"
+msgid "Split Test"
+msgstr "Split Tes"
+
+#: admin/class-puchi-admin.php:126
+msgctxt "post type singular name"
+msgid "Split Test"
+msgstr "Split Tes"
+
+#: admin/class-puchi-admin.php:127
+msgctxt "admin menu"
+msgid "Split Test"
+msgstr "Split Tes"
+
+#: admin/class-puchi-admin.php:128
+msgctxt "add new on admin bar"
+msgid "Split Test"
+msgstr "Split Tes"
+
+#: admin/class-puchi-admin.php:129
+msgctxt "puchi"
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: admin/class-puchi-admin.php:130
+msgid "Add New Split Test"
+msgstr "Tambah Split Tes Baru"
+
+#: admin/class-puchi-admin.php:131
+msgid "New Split Test"
+msgstr "Split Tes Baru"
+
+#: admin/class-puchi-admin.php:132
+msgid "Edit Split Test"
+msgstr "Edit Split Tes"
+
+#: admin/class-puchi-admin.php:133
+msgid "View Split Test"
+msgstr "Lihat Split Tes"
+
+#: admin/class-puchi-admin.php:134 admin/partials/statistic-detail.php:17
+msgid "Split Test"
+msgstr "Split Tes"
+
+#: admin/class-puchi-admin.php:135
+msgid "Search Split Test"
+msgstr "Cari Split Tes"
+
+#: admin/class-puchi-admin.php:136
+msgid "Parent Split Test:"
+msgstr "Parent Split tes:"
+
+#: admin/class-puchi-admin.php:137
+msgid "No Split Test found."
+msgstr "Split tes tidak ditemukan."
+
+#: admin/class-puchi-admin.php:138
+msgid "No Split Test found in Trash."
+msgstr "Split tes tidak ditemukan di keranjang sampah."
+
+#: admin/class-puchi-admin.php:349
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+#: admin/class-puchi-admin.php:350
+msgid "Are you sure you want to delete"
+msgstr "Apakah anda yakin ingin menghapus"
+
+#: admin/class-puchi-admin.php:351
+msgid "statistic data?"
+msgstr "data statistik?"
+
+#: admin/partials/setting.php:6
+msgid "Default Range Statistic Time"
+msgstr "Default Rentang Waktu Statistik"
+
+#: admin/partials/setting.php:12 admin/partials/statistic-detail.php:115
+#: includes/Controller.php:231
+msgid "Today"
+msgstr "Hari Ini"
+
+#: admin/partials/setting.php:13 admin/partials/statistic-detail.php:116
+#: includes/Controller.php:232
+msgid "Yesterday"
+msgstr "Kemarin"
+
+#: admin/partials/setting.php:14 admin/partials/statistic-detail.php:117
+msgid "Last 7 Days"
+msgstr "7 Hari Lalu"
+
+#: admin/partials/setting.php:15 admin/partials/statistic-detail.php:118
+msgid "This Week"
+msgstr "Minggu Ini"
+
+#: admin/partials/setting.php:16 admin/partials/statistic-detail.php:119
+msgid "Last Week"
+msgstr "Minggu Lalu"
+
+#: admin/partials/setting.php:17 admin/partials/setting.php:19
+#: admin/partials/statistic-detail.php:120
+#: admin/partials/statistic-detail.php:122
+msgid "This Month"
+msgstr "Bulan Ini"
+
+#: admin/partials/setting.php:18 admin/partials/setting.php:20
+#: admin/partials/statistic-detail.php:121
+#: admin/partials/statistic-detail.php:123
+msgid "Last Month"
+msgstr "Bulan Lalu"
+
+#: admin/partials/setting.php:21 admin/partials/statistic-detail.php:124
+msgid "This Year"
+msgstr "Tahun Ini"
+
+#: admin/partials/setting.php:22 admin/partials/statistic-detail.php:125
+msgid "Last Year"
+msgstr "Tahun Lalu"
+
+#: admin/partials/setting.php:23 admin/partials/statistic-detail.php:126
+msgid "All Time"
+msgstr "Sepanjang Waktu"
+
+#: admin/partials/setting.php:24 admin/partials/statistic-detail.php:127
+msgid "Custom"
+msgstr "Kustom"
+
+#: admin/partials/setting.php:31 admin/partials/setting.php:39
+msgid "Save"
+msgstr "Simpan"
+
+#: admin/partials/setting.php:35
+msgid "White IP Address Lists"
+msgstr "Daftar White IP Address"
+
+#: admin/partials/setting.php:36
+msgid "Separate each IP Address with commas (,)"
+msgstr "Pisahkan tiap Alamat IP dengan menggunakan koma (,)"
+
+#: admin/partials/statistic-detail.php:26
+msgid "Input split test title"
+msgstr "Masukan judul split tes"
+
+#: admin/partials/statistic-detail.php:51
+#: admin/partials/statistic-detail.php:77
+#: admin/partials/statistic-detail.php:80
+#: admin/partials/statistic-detail.php:157
+#: admin/partials/statistic-detail.php:160
+#: admin/partials/statistic-detail.php:163
+#: admin/partials/statistic-detail.php:200 admin/partials/statistic.php:27
+msgid "Page View"
+msgstr "Tampilan Halaman"
+
+#: admin/partials/statistic-detail.php:55
+#: admin/partials/statistic-detail.php:58
+msgid "All Split Content"
+msgstr "Semua Split Konten"
+
+#: admin/partials/statistic-detail.php:61
+msgid "Input split content title"
+msgstr "Masukan judul split tes"
+
+#: admin/partials/statistic-detail.php:81
+#: admin/partials/statistic-detail.php:164
+#: admin/partials/statistic-detail.php:201 admin/partials/statistic.php:28
+msgid "Visitors"
+msgstr "Pengunjung"
+
+#: admin/partials/statistic-detail.php:82
+#: admin/partials/statistic-detail.php:165
+msgid "Conversion"
+msgstr "Konversi"
+
+#: admin/partials/statistic-detail.php:83
+#: admin/partials/statistic-detail.php:166
+#: admin/partials/statistic-detail.php:203 admin/partials/statistic.php:30
+msgid "Conversion Rate"
+msgstr "Laju Konversi"
+
+#: admin/partials/statistic-detail.php:84
+#: admin/partials/statistic-detail.php:167
+#: admin/partials/statistic-detail.php:204 admin/partials/statistic.php:31
+msgid "Bounce Rate"
+msgstr "Rasio Pentalan"
+
+#: admin/partials/statistic-detail.php:97
+msgid "Time Range"
+msgstr "Rentang Waktu"
+
+#: admin/partials/statistic-detail.php:101
+msgid "From"
+msgstr "Dari"
+
+#: admin/partials/statistic-detail.php:106
+msgid "To"
+msgstr "Ke"
+
+#: admin/partials/statistic-detail.php:174 includes/Controller.php:112
+#: includes/Controller.php:260
+msgid "No data available"
+msgstr "Data tidak ditemukan"
+
+#: admin/partials/statistic-detail.php:198
+msgid "Split Content"
+msgstr "Split Konten"
+
+#: admin/partials/statistic-detail.php:199
+msgid "Weight(%)"
+msgstr "Bobot(%)"
+
+#: admin/partials/statistic-detail.php:202 admin/partials/statistic.php:29
+msgid "Conversions"
+msgstr "Konversi"
+
+#: admin/partials/statistic-detail.php:205 includes/Controller.php:364
+msgid "Info"
+msgstr "Info"
+
+#: admin/partials/statistic.php:26
+msgid "Page/Post Title"
+msgstr "Judul Halaman/Pos"
+
+#: admin/partials/statistic.php:32
+msgid "Action"
+msgstr "Aksi"
+
+#: includes/Controller.php:140
+msgid "Detail"
+msgstr "Detil"
+
+#: includes/Controller.php:141
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/Controller.php:233
+msgid "7 Days Ago"
+msgstr "7 Hari Lalu"
+
+#: includes/Controller.php:234
+msgid "1 Month Ago"
+msgstr "1 Bulan Lalu"
+
+#: includes/Controller.php:235
+msgid "3 Months Ago"
+msgstr "3 Bulan Lalu"
+
+#: includes/Controller.php:236
+msgid "6 Months Ago"
+msgstr "6 Bulan Lalu"
+
+#: includes/Controller.php:237
+msgid "12 Months Ago"
+msgstr "12 Bulan Lalu"
+
+#: includes/Controller.php:365
+msgid "Settings sucessfully saved!"
+msgstr "Pengaturan berhasil disimpan!"
+
+#: includes/libs/cmb2-metabox/fields/meta-split-shortcode.php:8
+msgid "Split Test Shortcode"
+msgstr "Shortcode Split Tes"
+
+#: includes/libs/cmb2-metabox/fields/meta-split-shortcode.php:23
+msgid "Copy this shortcode and paste to your page"
+msgstr "Kopi shortcode ini lalu paste di halaman yang anda buat"
+
+#: includes/libs/cmb2-metabox/fields/meta-split-shortcode.php:29
+msgid ""
+"You need to add content and publish or save as draft first to generate the "
+"shortcode for this split."
+msgstr ""
+"Anda diharuskan untuk menambahkan konten atau publish atau simpan sebagai "
+"draft dulu untuk membuat shortcode untuk split ini."
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:7
+msgid "Split Test Content"
+msgstr "Split Tes Konten"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:20
+msgid "Content {#}"
+msgstr "Konten {#}"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:21
+msgid "Add Another Content"
+msgstr "Tambahkan Konten Lainnya"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:22
+msgid "Remove Content"
+msgstr "Hapus Konten"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:29
+msgid "Title"
+msgstr "Judul"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:37
+msgid "Weight"
+msgstr "Bobot"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:38
+msgid "%. Numerical weight percentage."
+msgstr "%. Persentasi bobot dalam angka."
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:51
+msgid "Content"
+msgstr "Konten"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:70
+msgid "Tracking Trigger"
+msgstr "Pemicu Treking"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:71
+msgid "Track interaction/click from this element at the content."
+msgstr "Interasi Treking/klik dari element berikut pada konten."
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:75
+msgid "Anchor/Link Tag"
+msgstr "Tag a/Link"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:76
+msgid "Button Tag"
+msgstr "Tag Button"
+
+#: includes/libs/cmb2-metabox/fields/meta-split.php:77
+msgid "Input Submit Tag"
+msgstr "Input Submit Tag"
